@@ -1,0 +1,11 @@
+{
+	'score':	{
+		'src':		"number_black.png",
+		'frame':	{
+			"x": 0,
+			"y": 0,
+			"w": 20,
+			"h": 24
+		}
+	}
+}

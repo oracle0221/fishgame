@@ -1,0 +1,47 @@
+{
+	'bottom_bar':	{
+		'src':		"bottom.png",
+		'frame':	{
+			"x": 0,
+			"y": 0,
+			"w": 765,
+			"h": 72
+		}
+	},
+	'cannon_minus':	{
+		'src':		"bottom.png",
+		'frame':	{
+			"x": 132,
+			"y": 72,
+			"w": 44,
+			"h": 31
+		}
+	},
+	'cannon_minus_down':	{
+		'src':		"bottom.png",
+		'frame':	{
+			"x": 88,
+			"y": 72,
+			"w": 44,
+			"h": 31
+		}
+	},
+	'cannon_plus':	{
+		'src':		"bottom.png",
+		'frame':	{
+			"x": 44,
+			"y": 72,
+			"w": 44,
+			"h": 31
+		}
+	},
+	'cannon_plus_down':	{
+		'src':		"bottom.png",
+		'frame':	{
+			"x": 0,
+			"y": 72,
+			"w": 44,
+			"h": 31
+		}
+	}
+}

@@ -1,0 +1,65 @@
+{
+	'cannon1':	{
+		'src':		"cannon1.png",
+		'frame':	{
+			"x": 0,
+			"y": 0,
+			"w": 74,
+			"h": 74
+		}
+	},
+	'cannon2':	{
+		'src':		"cannon2.png",
+		'frame':	{
+			"x": 0,
+			"y": 0,
+			"w": 74,
+			"h": 76
+		}
+	},
+	'cannon3':	{
+		'src':		"cannon3.png",
+		'frame':	{
+			"x": 0,
+			"y": 0,
+			"w": 74,
+			"h": 76
+		}
+	},
+	'cannon4':	{
+		'src':		"cannon4.png",
+		'frame':	{
+			"x": 0,
+			"y": 0,
+			"w": 74,
+			"h": 83
+		}
+	},
+	'cannon5':	{
+		'src':		"cannon5.png",
+		'frame':	{
+			"x": 0,
+			"y": 0,
+			"w": 74,
+			"h": 85
+		}
+	},
+	'cannon6':	{
+		'src':		"cannon6.png",
+		'frame':	{
+			"x": 0,
+			"y": 0,
+			"w": 74,
+			"h": 90
+		}
+	},
+	'cannon7':	{
+		'src':		"cannon7.png",
+		'frame':	{
+			"x": 0,
+			"y": 0,
+			"w": 74,
+			"h": 94
+		}
+	},
+}

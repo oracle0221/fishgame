@@ -1,0 +1,74 @@
+{
+	'bullet1':	{
+		'src':		"bullet.png",
+		'frame':	{
+			"x": 86,
+			"y": 0,
+			"w": 24,
+			"h": 26
+		}
+	},
+	'bullet2':	{
+		'src':		"bullet.png",
+		'frame':	{
+			"x": 61,
+			"y": 0,
+			"w": 25,
+			"h": 29
+		}
+	},
+	'bullet3':	{
+		'src':		"bullet.png",
+		'frame':	{
+			"x": 32,
+			"y": 35,
+			"w": 27,
+			"h": 31
+		}
+	},
+	'bullet4':	{
+		'src':		"bullet.png",
+		'frame':	{
+			"x": 30,
+			"y": 82,
+			"w": 29,
+			"h": 33
+		}
+	},
+	'bullet5':	{
+		'src':		"bullet.png",
+		'frame':	{
+			"x": 0,
+			"y": 82,
+			"w": 30,
+			"h": 34
+		}
+	},
+	'bullet6':	{
+		'src':		"bullet.png",
+		'frame':	{
+			"x": 30,
+			"y": 0,
+			"w": 31,
+			"h": 35
+		}
+	},
+	'bullet7':	{
+		'src':		"bullet.png",
+		'frame':	{
+			"x": 0,
+			"y": 44,
+			"w": 32,
+			"h": 38
+		}
+	},
+	'bullet8':	{
+		'src':		"bullet.png",
+		'frame':	{
+			"x": 0,
+			"y": 0,
+			"w": 30,
+			"h": 44
+		}
+	}
+}
